@@ -1,0 +1,5 @@
+Reading: /gpfs/data/mostafavilab/rishav.e.s.dasgupta/select_gene_features_binarized.tsv 
+Loaded 6 columns and 19071 rows
+Dropped column: human_brain3_adult_projected_pcaloadings_clusters_pre_def.125 
+Saved result to: /gpfs/data/mostafavilab/rishav.e.s.dasgupta/select_gene_features_binarized_modified.tsv 
+Done

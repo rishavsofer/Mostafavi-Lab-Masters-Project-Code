@@ -1,0 +1,538 @@
+also installing the dependencies ‘utf8’, ‘bit’, ‘prettyunits’, ‘pkgconfig’, ‘vctrs’, ‘glue’, ‘fansi’, ‘magrittr’, ‘pillar’, ‘bit64’, ‘tidyselect’, ‘withr’, ‘progress’, ‘cli’, ‘clipr’, ‘crayon’, ‘hms’, ‘lifecycle’, ‘R6’, ‘rlang’, ‘tibble’, ‘vroom’, ‘cpp11’, ‘tzdb’
+
+trying URL 'https://cran.r-project.org/src/contrib/utf8_1.2.4.tar.gz'
+Content type 'application/x-gzip' length 241081 bytes (235 KB)
+==================================================
+downloaded 235 KB
+
+trying URL 'https://cran.r-project.org/src/contrib/bit_4.5.0.1.tar.gz'
+Content type 'application/x-gzip' length 859152 bytes (839 KB)
+==================================================
+downloaded 839 KB
+
+trying URL 'https://cran.r-project.org/src/contrib/prettyunits_1.2.0.tar.gz'
+Content type 'application/x-gzip' length 97496 bytes (95 KB)
+==================================================
+downloaded 95 KB
+
+trying URL 'https://cran.r-project.org/src/contrib/pkgconfig_2.0.3.tar.gz'
+Content type 'application/x-gzip' length 6080 bytes
+==================================================
+downloaded 6080 bytes
+
+trying URL 'https://cran.r-project.org/src/contrib/vctrs_0.6.5.tar.gz'
+Content type 'application/x-gzip' length 969066 bytes (946 KB)
+==================================================
+downloaded 946 KB
+
+trying URL 'https://cran.r-project.org/src/contrib/glue_1.8.0.tar.gz'
+Content type 'application/x-gzip' length 126682 bytes (123 KB)
+==================================================
+downloaded 123 KB
+
+trying URL 'https://cran.r-project.org/src/contrib/fansi_1.0.6.tar.gz'
+Content type 'application/x-gzip' length 482480 bytes (471 KB)
+==================================================
+downloaded 471 KB
+
+trying URL 'https://cran.r-project.org/src/contrib/magrittr_2.0.3.tar.gz'
+Content type 'application/x-gzip' length 267074 bytes (260 KB)
+==================================================
+downloaded 260 KB
+
+trying URL 'https://cran.r-project.org/src/contrib/pillar_1.10.1.tar.gz'
+Content type 'application/x-gzip' length 407070 bytes (397 KB)
+==================================================
+downloaded 397 KB
+
+trying URL 'https://cran.r-project.org/src/contrib/bit64_4.6.0-1.tar.gz'
+Content type 'application/x-gzip' length 142045 bytes (138 KB)
+==================================================
+downloaded 138 KB
+
+trying URL 'https://cran.r-project.org/src/contrib/tidyselect_1.2.1.tar.gz'
+Content type 'application/x-gzip' length 103591 bytes (101 KB)
+==================================================
+downloaded 101 KB
+
+trying URL 'https://cran.r-project.org/src/contrib/withr_3.0.2.tar.gz'
+Content type 'application/x-gzip' length 103240 bytes (100 KB)
+==================================================
+downloaded 100 KB
+
+trying URL 'https://cran.r-project.org/src/contrib/progress_1.2.3.tar.gz'
+Content type 'application/x-gzip' length 30499 bytes (29 KB)
+==================================================
+downloaded 29 KB
+
+trying URL 'https://cran.r-project.org/src/contrib/cli_3.6.4.tar.gz'
+Content type 'application/x-gzip' length 637550 bytes (622 KB)
+==================================================
+downloaded 622 KB
+
+trying URL 'https://cran.r-project.org/src/contrib/clipr_0.8.0.tar.gz'
+Content type 'application/x-gzip' length 21898 bytes (21 KB)
+==================================================
+downloaded 21 KB
+
+trying URL 'https://cran.r-project.org/src/contrib/crayon_1.5.3.tar.gz'
+Content type 'application/x-gzip' length 40396 bytes (39 KB)
+==================================================
+downloaded 39 KB
+
+trying URL 'https://cran.r-project.org/src/contrib/hms_1.1.3.tar.gz'
+Content type 'application/x-gzip' length 43379 bytes (42 KB)
+==================================================
+downloaded 42 KB
+
+trying URL 'https://cran.r-project.org/src/contrib/lifecycle_1.0.4.tar.gz'
+Content type 'application/x-gzip' length 107656 bytes (105 KB)
+==================================================
+downloaded 105 KB
+
+trying URL 'https://cran.r-project.org/src/contrib/R6_2.6.1.tar.gz'
+Content type 'application/x-gzip' length 64507 bytes (62 KB)
+==================================================
+downloaded 62 KB
+
+trying URL 'https://cran.r-project.org/src/contrib/rlang_1.1.5.tar.gz'
+Content type 'application/x-gzip' length 766219 bytes (748 KB)
+==================================================
+downloaded 748 KB
+
+trying URL 'https://cran.r-project.org/src/contrib/tibble_3.2.1.tar.gz'
+Content type 'application/x-gzip' length 565982 bytes (552 KB)
+==================================================
+downloaded 552 KB
+
+trying URL 'https://cran.r-project.org/src/contrib/vroom_1.6.5.tar.gz'
+Content type 'application/x-gzip' length 750416 bytes (732 KB)
+==================================================
+downloaded 732 KB
+
+trying URL 'https://cran.r-project.org/src/contrib/cpp11_0.5.1.tar.gz'
+Content type 'application/x-gzip' length 291870 bytes (285 KB)
+==================================================
+downloaded 285 KB
+
+trying URL 'https://cran.r-project.org/src/contrib/tzdb_0.4.0.tar.gz'
+Content type 'application/x-gzip' length 586327 bytes (572 KB)
+==================================================
+downloaded 572 KB
+
+trying URL 'https://cran.r-project.org/src/contrib/readr_2.1.5.tar.gz'
+Content type 'application/x-gzip' length 298065 bytes (291 KB)
+==================================================
+downloaded 291 KB
+
+* installing *source* package ‘utf8’ ...
+** package ‘utf8’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C compiler: ‘x86_64-conda-linux-gnu-cc (Anaconda gcc) 11.2.0’
+installing to /gpfs/home/rd2524/.conda/envs/my_R_env/lib/R/library/00LOCK-utf8/00new/utf8/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* DONE (utf8)
+* installing *source* package ‘bit’ ...
+** package ‘bit’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C compiler: ‘x86_64-conda-linux-gnu-cc (Anaconda gcc) 11.2.0’
+installing to /gpfs/home/rd2524/.conda/envs/my_R_env/lib/R/library/00LOCK-bit/00new/bit/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* DONE (bit)
+* installing *source* package ‘prettyunits’ ...
+** package ‘prettyunits’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* DONE (prettyunits)
+* installing *source* package ‘pkgconfig’ ...
+** package ‘pkgconfig’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* DONE (pkgconfig)
+* installing *source* package ‘glue’ ...
+** package ‘glue’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C compiler: ‘x86_64-conda-linux-gnu-cc (Anaconda gcc) 11.2.0’
+installing to /gpfs/home/rd2524/.conda/envs/my_R_env/lib/R/library/00LOCK-glue/00new/glue/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+*** copying figures
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* DONE (glue)
+* installing *source* package ‘fansi’ ...
+** package ‘fansi’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C compiler: ‘x86_64-conda-linux-gnu-cc (Anaconda gcc) 11.2.0’
+installing to /gpfs/home/rd2524/.conda/envs/my_R_env/lib/R/library/00LOCK-fansi/00new/fansi/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* DONE (fansi)
+* installing *source* package ‘magrittr’ ...
+** package ‘magrittr’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C compiler: ‘x86_64-conda-linux-gnu-cc (Anaconda gcc) 11.2.0’
+installing to /gpfs/home/rd2524/.conda/envs/my_R_env/lib/R/library/00LOCK-magrittr/00new/magrittr/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+*** copying figures
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* DONE (magrittr)
+* installing *source* package ‘withr’ ...
+** package ‘withr’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+*** copying figures
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* DONE (withr)
+* installing *source* package ‘cli’ ...
+** package ‘cli’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C compiler: ‘x86_64-conda-linux-gnu-cc (Anaconda gcc) 11.2.0’
+installing to /gpfs/home/rd2524/.conda/envs/my_R_env/lib/R/library/00LOCK-cli/00new/cli/libs
+** R
+** exec
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+*** copying figures
+** building package indices
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* DONE (cli)
+* installing *source* package ‘clipr’ ...
+** package ‘clipr’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* DONE (clipr)
+* installing *source* package ‘crayon’ ...
+** package ‘crayon’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* DONE (crayon)
+* installing *source* package ‘R6’ ...
+** package ‘R6’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+*** copying figures
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* DONE (R6)
+* installing *source* package ‘rlang’ ...
+** package ‘rlang’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C compiler: ‘x86_64-conda-linux-gnu-cc (Anaconda gcc) 11.2.0’
+installing to /gpfs/home/rd2524/.conda/envs/my_R_env/lib/R/library/00LOCK-rlang/00new/rlang/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+*** copying figures
+** building package indices
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* DONE (rlang)
+* installing *source* package ‘cpp11’ ...
+** package ‘cpp11’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* DONE (cpp11)
+* installing *source* package ‘bit64’ ...
+** package ‘bit64’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C compiler: ‘x86_64-conda-linux-gnu-cc (Anaconda gcc) 11.2.0’
+installing to /gpfs/home/rd2524/.conda/envs/my_R_env/lib/R/library/00LOCK-bit64/00new/bit64/libs
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* DONE (bit64)
+* installing *source* package ‘lifecycle’ ...
+** package ‘lifecycle’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+*** copying figures
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* DONE (lifecycle)
+* installing *source* package ‘tzdb’ ...
+** package ‘tzdb’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C++ compiler: ‘x86_64-conda-linux-gnu-c++ (Anaconda gcc) 11.2.0’
+installing to /gpfs/home/rd2524/.conda/envs/my_R_env/lib/R/library/00LOCK-tzdb/00new/tzdb/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* DONE (tzdb)
+* installing *source* package ‘vctrs’ ...
+** package ‘vctrs’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C compiler: ‘x86_64-conda-linux-gnu-cc (Anaconda gcc) 11.2.0’
+installing to /gpfs/home/rd2524/.conda/envs/my_R_env/lib/R/library/00LOCK-vctrs/00new/vctrs/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+*** copying figures
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* DONE (vctrs)
+* installing *source* package ‘pillar’ ...
+** package ‘pillar’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+*** copying figures
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* DONE (pillar)
+* installing *source* package ‘tidyselect’ ...
+** package ‘tidyselect’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* DONE (tidyselect)
+* installing *source* package ‘hms’ ...
+** package ‘hms’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+*** copying figures
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* DONE (hms)
+* installing *source* package ‘progress’ ...
+** package ‘progress’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+*** copying figures
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* DONE (progress)
+* installing *source* package ‘tibble’ ...
+** package ‘tibble’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C compiler: ‘x86_64-conda-linux-gnu-cc (Anaconda gcc) 11.2.0’
+installing to /gpfs/home/rd2524/.conda/envs/my_R_env/lib/R/library/00LOCK-tibble/00new/tibble/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+*** copying figures
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* DONE (tibble)
+* installing *source* package ‘vroom’ ...
+** package ‘vroom’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C compiler: ‘x86_64-conda-linux-gnu-cc (Anaconda gcc) 11.2.0’
+using C++ compiler: ‘x86_64-conda-linux-gnu-c++ (Anaconda gcc) 11.2.0’
+installing to /gpfs/home/rd2524/.conda/envs/my_R_env/lib/R/library/00LOCK-vroom/00new/vroom/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+*** copying figures
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* DONE (vroom)
+* installing *source* package ‘readr’ ...
+** package ‘readr’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C compiler: ‘x86_64-conda-linux-gnu-cc (Anaconda gcc) 11.2.0’
+using C++ compiler: ‘x86_64-conda-linux-gnu-c++ (Anaconda gcc) 11.2.0’
+installing to /gpfs/home/rd2524/.conda/envs/my_R_env/lib/R/library/00LOCK-readr/00new/readr/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+*** copying figures
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* DONE (readr)
+
+The downloaded source packages are in
+	‘/tmp/RtmpMDIdap/downloaded_packages’
+Updating HTML index of packages in '.Library'
+Making 'packages.html' ... done

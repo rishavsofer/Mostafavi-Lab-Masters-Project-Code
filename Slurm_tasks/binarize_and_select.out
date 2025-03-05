@@ -1,0 +1,15 @@
+Starting processing at: 2025-03-05 16:08:50 
+Reading input file: /gpfs/data/mostafavilab/rishav.e.s.dasgupta/all_gene_features.tsv 
+Loaded 65392 columns and 19071 rows
+Analyzing column types...
+Found 3 character columns
+Found 8978 binary columns
+Found 56411 numeric columns
+Found 0 other columns
+Binarizing numeric columns...
+Warning: The following columns are not properly binarized: ensg, hgnc, chrom 
+Selecting columns...
+Selected 7 columns
+Saving to output file: /gpfs/data/mostafavilab/rishav.e.s.dasgupta/gene_features_binarized_selected.tsv 
+Processing completed in 17.47501 mins 
+Done

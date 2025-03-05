@@ -5,5 +5,6 @@ This repository contains the code relevant my 2025 NYU Vilcek BMI Master's Thesi
 ## Directories and Scripts
 
 - **R-code**: Scripts in R.
-- **Slurm_tasks**: Bash code used to run R files in R-code, including error files and results.
+- **Python-code**: Scripts in Python.
+- **Slurm_tasks**: Bash code used to run files in R-code/Python-code, including error files and results.
 

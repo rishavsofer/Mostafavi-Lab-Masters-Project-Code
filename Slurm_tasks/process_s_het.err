@@ -1,0 +1,32 @@
+
+EnvironmentNameNotFound: Could not find conda environment: my_R_env
+You can list all discoverable environments with `conda info --envs`.
+
+
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Reading TSV file: /gpfs/data/mostafavilab/rishav.e.s.dasgupta/all_gene_features.tsv
+TSV data dimensions: 19071 rows x 65392 columns
+Reading XLSX file (Supplementary Table 1): /gpfs/data/mostafavilab/rishav.e.s.dasgupta/s_het_info.xlsx
+XLSX data dimensions: 19071 rows x 9 columns
+TSV file column names: ensg, hgnc, chrom, length, Transcript_count
+XLSX subset column names: ensg, prior_mean
+Merging datasets...
+Number of rows with NA prior_mean after merging: 0
+Reordering columns...
+Keeping only first 4 columns...
+Binarizing prior_mean column...
+Threshold for top 10%: 0.129382
+Filtering to keep only rows with prior_mean = 1...
+Final data dimensions: 1908 rows x 4 columns
+Saving result to: /gpfs/data/mostafavilab/rishav.e.s.dasgupta/s_het_filtered_features.tsv
+Processing complete!
